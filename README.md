@@ -133,33 +133,6 @@ Created an interactive dashboard featuring:
 
 ---
 
-# 📁 Repository Structure
-
-```
-netflix-content-analysis/
-│
-├── README.md
-│
-├── data/
-│   ├── netflix.csv
-│   └── netflix_cleaned.xlsx
-│
-├── python/
-│   └── netflix_cleaning.ipynb
-│
-├── sql/
-│   └── netflix_analysis.sql
-│
-├── powerbi/
-│   ├── netflix_dashboard.pbix
-│   └── netflix_dashboard.pdf
-│
-└── dashboard_images/
-    └── dashboard.png
-```
-
----
-
 # 🎯 Skills Demonstrated
 
 - Data Cleaning
